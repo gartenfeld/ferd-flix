@@ -1,0 +1,17 @@
+{
+  "name": "ferd-flix",
+  "version": "0.0.2",
+  "description": "A Ferd module that shows nearby movie times.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ferd"
+  ],
+  "author": "David Rosson",
+  "license": "MIT",
+  "dependencies": {
+    "showtimes": "^1.7.0"
+  }
+}
